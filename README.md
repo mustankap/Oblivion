@@ -1,1 +1,1 @@
-# This is the attendance scanner project
+# This is the attendance scanner project.(not yet)
